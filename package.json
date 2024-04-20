@@ -1,0 +1,13 @@
+{
+  "name": "if-else-condition",
+  "version": "1.0.0",
+  "description": "in this typescript file we have used if else condition",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saba Zain(Roll No 00221864)",
+  "license": "ISC"
+}
